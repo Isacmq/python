@@ -4,4 +4,8 @@ if (times == "fluminense") {
  else if ( times == "botafogo" ) { 
     console.log (" campeao brasileiro 2024" )
  }
-else if ( times == )
+else if ( times == "vasco" ) {
+    console.log("sao januario meu caldeirao")
+} else  {
+    console.log ( "e um bairro nao um time")
+} 
