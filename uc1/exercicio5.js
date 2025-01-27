@@ -19,3 +19,4 @@ switch (codCategoria) {
     default:
             console.log("categoria invalida")
 }
+//

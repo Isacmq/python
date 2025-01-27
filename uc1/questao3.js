@@ -6,3 +6,4 @@ let valor3 = 9
 if ( valor1 == valor2)
 if ( valor2 == valor3)
 console.log ( " todos os jogadoes sao iguais ")
+//

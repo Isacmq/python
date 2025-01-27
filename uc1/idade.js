@@ -29,3 +29,4 @@ if (idade>=0 && idade<=12) {
 } else {
     console.log("idade invalida");
 }
+//

@@ -7,3 +7,4 @@ if ( media >= 6 ) {
 else { 
     console.log ( "reprovado ")
 }
+//

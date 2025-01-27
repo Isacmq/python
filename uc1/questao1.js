@@ -6,3 +6,4 @@ if ( idade >= 16) {
 } else { 
     console.log("voce nao pode votar")
 }
+//

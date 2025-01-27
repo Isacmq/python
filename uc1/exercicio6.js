@@ -5,3 +5,4 @@ if (numero >= 10 && numero <= 20) {
 } else {
     console.log("Número fora do intervalo");
 }
+//
