@@ -31,7 +31,7 @@ transferir(valor, destino) {
 }
 
 let cliente1 = new ContaBancaria("João", 1000.00);
-let cliente2 = new ContaBancaria("Maria", 500.00);
+let cliente2 = new ContaBancaria("jose", 500.00);
 cliente1.consultarSaldo();
 cliente1.consultarSaldo();
 
