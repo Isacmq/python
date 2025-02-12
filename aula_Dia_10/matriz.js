@@ -5,9 +5,21 @@ let matriz = [
     [7, 8, 9]
 ]; 
 console.log(matriz);
+
 // acessando um valor
 console.log(matriz[0][1]);
 console.log(matriz[0][2]);
-// modificando um valor
 
+// modificando um valor
+matriz[1][1] = 99
+console.log(matriz);
+
+// percorrer matriz
+for (let i = 0; i < matriz.length; i++) {
+    for (let j = 0; j < matriz[i].length; j++) {
+        document.write(matriz[i][j]+"<br>")
+    }
+}
+
+console.log(matriz[0].length);
 
