@@ -1,0 +1,37 @@
+{
+	"folders": [
+		{
+			"name": "fuul stack",
+			"path": "../../fuul stack"
+		},
+		{
+			"name": "aula_Dia_02",
+			"path": "."
+		},
+		{
+			"path": "../aula_Dia_10"
+		},
+		{
+			"path": "../aula_Dia_14"
+		},
+		{
+			"path": "../aula_Dia_17_html"
+		},
+		{
+			"path": "../aula_Dia_31"
+		},
+		{
+			"path": "../aula9"
+		},
+		{
+			"path": "../aula9_2"
+		},
+		{
+			"path": "../exerciciosGogle.js"
+		},
+		{
+			"path": "../uc1"
+		}
+	],
+	"settings": {}
+}
